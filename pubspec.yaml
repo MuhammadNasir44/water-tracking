@@ -43,7 +43,8 @@ dependencies:
   firebase_auth: 
   firebase_core : 
   firebase_storage: 
-  flutter_local_notifications: 
+  flutter_local_notifications:
+  intl: 
 
 dev_dependencies:
   flutter_test:
